@@ -1,4 +1,4 @@
-rpayload:
+payload:
   - DOMAIN,assets1.xboxlive.com
   - DOMAIN,assets2.xboxlive.com
   - DOMAIN,blizzard.gcdn.cloudn.co.kr
